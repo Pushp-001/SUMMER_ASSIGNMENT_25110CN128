@@ -1,5 +1,5 @@
- /*Write a program to Print Armstrong numbers
-in a range.*/
+/*write a program to print armstrong numbers in a range*/
+
 #include <stdio.h>
 #include <math.h>
 
@@ -15,7 +15,7 @@ int main(){
     {  
      int b =num;
      int c= num;
-     int d=num ;
+     int d= num;
      int count =0;
      int arm =0;
      while(d>0)
